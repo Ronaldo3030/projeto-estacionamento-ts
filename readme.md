@@ -1,5 +1,5 @@
 # Sistema de estacionamento com TypeScript
-Projeto de estacionamento que desenvolvi no Bootcamp "Spread Fullstack Developer" da Digital Innovation One.<br>
+Projeto de estacionamento voltado para o treinamento de TypeScript que desenvolvi no Bootcamp "Spread Fullstack Developer" da Digital Innovation One.<br>
 
 ## 🛠️ Construído com
 
